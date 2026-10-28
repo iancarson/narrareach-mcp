@@ -1,5 +1,7 @@
 # Substack Social MCP by Narrareach
 
+[![M8ven Publisher Verification](https://m8ven.ai/badge/mcp/iancarson-substack-social-mcp-r41soq?v=9f6cc64480f52917f8e588a9e6797398&variant=verified)](https://m8ven.ai/mcp/iancarson-substack-social-mcp-r41soq?s=readme)
+
 Official connection guide for the hosted [Narrareach](https://www.narrareach.com) MCP server.
 
 Draft, schedule, and analyze content for **Substack, Medium, LinkedIn, X, Bluesky, and Threads**. Capabilities vary by platform and by your account's connected destinations.
